@@ -1,0 +1,66 @@
+.footer {
+    overflow: hidden;
+    position: sticky;
+    top: 100%;
+    background-color: #2A2A2A;
+    color: #FFFFFF;
+    padding: 20px 10px;
+}
+
+.fa-brands {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.fa-brands:hover {
+    opacity: 0.7;
+}
+
+.list-group{
+    list-style-type:none;
+}
+
+a:hover {
+    opacity: 0.7;
+}
+
+h1 {
+    font-weight: bold;
+    color: #fff;
+    font-size: 20px;
+}
+
+p {
+    color: #fff;
+    font-size: 12px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0px 10px;
+    font-size: 17px;
+}
+
+a:hover {
+    color: var(--primary-color);
+}
+
+i {
+    padding: 0px 10px;
+}
+
+.partners img
+{
+    display: block;
+    margin: auto;
+    width: auto;
+    height: auto;
+    max-height: 65px;
+    max-width: 140px;
+    margin-bottom: 20px;
+}
