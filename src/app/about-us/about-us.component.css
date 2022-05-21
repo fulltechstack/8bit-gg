@@ -59,3 +59,37 @@
 .btn:hover:before {
     left: 100%;
 }
+
+.jumbo {
+    background-color: #0c0c0c;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+}
+.table{
+    display:table;
+
+}
+.vs
+{
+    font-family: 'HartwellAlt-Bolditalic', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 25px;
+    letter-spacing: 1.13px;
+    color: #2A2A2A;
+    display:table-cell;
+    vertical-align:middle;
+}
+.vs-o{
+    color: #E7836E !important;
+}
+h2{
+    margin-top:15px;
+    font-weight: 600;
+}

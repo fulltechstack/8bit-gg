@@ -1,0 +1,26 @@
+.clabel{
+    font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+.cDesc{
+    font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+@media screen and (max-width: 600px) {
+    .carousel .carousel-item {
+        height: 500px;
+    }
+
+    .carousel-item img {
+        position: absolute;
+        object-fit: cover;
+        top: 0;
+        left: 0;
+        min-height: 500px;
+    }
+}

@@ -1,13 +1,15 @@
-.navbar-nav .nav-link
-{
-    color:#ffffff;
+.navbar-nav .nav-link {
+    color: #ffffff;
 }
-.nav-link
-{
+
+.nav-link {
     font-size: 20px;
 }
-.navbar-nav  .nav-link:hover
-{
+
+.navbar-nav .nav-link:hover {
     color: #FF7456;
 }
 
+.bg-dark {
+    background-color: #0c0c0c !important;
+}
